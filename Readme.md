@@ -22,6 +22,7 @@ List of content that might be interesting to read (will remove after something h
 5. Computer Systems: A Programmer's Perspective
 6. Operating System Concepts
 7. What Every Programmer Should Know About Memory
+8. How Linux Works What Every Superuser Should Know
 # Financial Systems
 1. Designing Financial Data Architectures
 # Programming
@@ -32,3 +33,5 @@ List of content that might be interesting to read (will remove after something h
 3. The Rust and WebAssembly Book
 # Computer Architecture
 1. Computer Organization and Deisgn RISC-V Edition
+# Software Achitecture
+1. Software Architecture: The Hard Parts
