@@ -34,4 +34,5 @@ List of content that might be interesting to read (will remove after something h
 # Computer Architecture
 1. Computer Organization and Deisgn RISC-V Edition
 # Software Achitecture
-1. Software Architecture: The Hard Parts
+1. Fundamentals of Software Architecture
+2. Software Architecture: The Hard Parts
