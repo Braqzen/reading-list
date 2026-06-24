@@ -31,6 +31,7 @@ List of content that might be interesting to read (will remove after something h
 1. Effective Rust
 2. Rust for Rustaceans
 3. The Rust and WebAssembly Book
+4. The Rust Performance Book
 # Computer Architecture
 1. Computer Organization and Deisgn RISC-V Edition
 # Software Achitecture
