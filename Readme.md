@@ -20,9 +20,11 @@ List of content that might be interesting to read (will remove after something h
 3. Learning eBPF
 4. Understanding Software Dynamics
 5. Computer Systems: A Programmer's Perspective
-6. Operating System Concepts
-7. What Every Programmer Should Know About Memory
-8. How Linux Works What Every Superuser Should Know
+6. Operating Systems: Three Easy Pieces
+7. Operating System Concepts
+8. What Every Programmer Should Know About Memory
+9. How Linux Works What Every Superuser Should Know
+10. The Garbage Collection Handbook
 # Financial Systems
 1. Designing Financial Data Architectures
 # Programming
